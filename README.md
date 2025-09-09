@@ -1,3 +1,4 @@
+#This is the app that stores our password in the MongoDB
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
